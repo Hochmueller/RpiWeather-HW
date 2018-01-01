@@ -1,0 +1,180 @@
+*************************************************************
+FileName = Eurocard VME 3U (3.937 x 6.299 inches).GBR
+AutoAperture = True
+*************************************************************
+Generating : TopLayer
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : BottomLayer
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GBL
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : TopOverlay
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D16
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : TopSolder
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : BottomSolder
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : BottomOverlay
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GBO
+
+    Adding Layer      : BottomOverlay
+
+
+Used DCodes :
+    D16
+    D29
+    D30
+    D50
+*************************************************************
+
+*************************************************************
+Generating : KeepOutLayer
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GKO
+
+    Adding Layer      : KeepOutLayer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical1
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GM1
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical13
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GM13
+
+    Adding Layer      : Mechanical13
+
+
+Used DCodes :
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Mechanical15
+      File : Eurocard VME 3U (3.937 x 6.299 inches).GM15
+
+    Adding Layer      : Mechanical15
+
+
+Used DCodes :
+    D52
+*************************************************************
+
